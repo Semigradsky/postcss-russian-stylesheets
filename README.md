@@ -6,8 +6,8 @@
 Based on [1css](https://github.com/azproduction/1css).
 
 [PostCSS]: https://github.com/postcss/postcss
-[ci-img]:  https://travis-ci.org/Semigradsky/postcss-russian-styleshits.svg
-[ci]:      https://travis-ci.org/Semigradsky/postcss-russian-styleshits
+[ci-img]:  https://travis-ci.org/Semigradsky/postcss-russian-stylesheets.svg
+[ci]:      https://travis-ci.org/Semigradsky/postcss-russian-stylesheets
 
 ## Input
 ```css
