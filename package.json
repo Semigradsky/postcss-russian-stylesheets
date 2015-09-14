@@ -4,7 +4,7 @@
   "description": "PostCSS plugin to support lengths in russian units",
   "main": "dist/index.js",
   "scripts": {
-    "test": "eslint src && npm run publish && mocha --compilers js:babel/register",
+    "test": "eslint src && npm run publish && cpy src/*.json dist && mocha --compilers js:babel/register",
     "publish": "babel src --out-dir dist"
   },
   "repository": {
@@ -31,6 +31,7 @@
     "babel": "^5.8.21",
     "babel-eslint": "^4.0.5",
     "chai": "^3.2.0",
+    "cpy": "^3.4.1",
     "eslint": "^1.0.0",
     "eslint-config-airbnb-lite": "^1.0.3",
     "mocha": "^2.2.5"
