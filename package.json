@@ -1,6 +1,6 @@
 {
   "name": "postcss-russian-stylesheets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PostCSS plugin to support lengths in russian units",
   "main": "dist/index.js",
   "scripts": {
