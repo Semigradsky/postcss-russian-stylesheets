@@ -28,12 +28,12 @@
     "postcss": "^5.0.5"
   },
   "devDependencies": {
-    "babel": "^5.8.21",
-    "babel-eslint": "^4.0.5",
+    "babel": "^6.5.2",
+    "babel-eslint": "^6.1.2",
     "chai": "^3.2.0",
-    "cpy": "^3.4.1",
-    "eslint": "^1.0.0",
+    "cpy": "^4.0.1",
+    "eslint": "^3.4.0",
     "eslint-config-airbnb-lite": "^1.0.3",
-    "mocha": "^2.2.5"
+    "mocha": "^3.0.2"
   }
 }
